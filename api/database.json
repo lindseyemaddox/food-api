@@ -3,38 +3,38 @@
     {
       "id": 1,
       "name": "Linguine",
-      "type": "pasta",
+      "category": "pasta",
       "ethnicity": "italian"
-    },
-    {
-      "name": "blue curry",
-      "type": "curry",
-      "ethnicity": "thai",
-      "id": 2
     },
     {
       "id": 3,
       "name": "Green curry",
-      "type": "curry",
+      "category": "curry",
       "ethnicity": "thai"
     },
     {
       "id": 4,
       "name": "Ravioli Funghi",
-      "type": "pasta",
+      "category": "pasta",
       "ethnicity": "italian"
     },
     {
       "id": 5,
       "name": "Tuscan Soup",
-      "type": "vegetarian",
+      "category": "vegetarian",
       "ethnicity": "italian"
     },
     {
+      "id": 6,
       "name": "Doritos",
-      "type": "junk",
-      "ethnicity": "American",
-      "id": 6
+      "category": "junk",
+      "ethnicity": "American"
+    },
+    {
+      "name": "caesar salad",
+      "category": "salad",
+      "ethnicity": "italian",
+      "id": 7
     }
   ]
 }
