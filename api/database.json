@@ -17,7 +17,7 @@
       "name": "Ravioli Funghi",
       "category": "pasta",
       "ethnicity": "italian"
-    },
+    },s
     {
       "id": 5,
       "name": "Tuscan Soup",
@@ -31,10 +31,10 @@
       "ethnicity": "American"
     },
     {
+      "id": 7,
       "name": "caesar salad",
       "category": "salad",
-      "ethnicity": "italian",
-      "id": 7
+      "ethnicity": "italian"
     }
   ]
 }
